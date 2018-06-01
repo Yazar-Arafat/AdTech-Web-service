@@ -1,16 +1,16 @@
 # Used-Tech Stack
 
-1.Java 8
-2.Spring Boot 1.5.8
-3.Spring Data JPA
-4.MongoDB -NOSql
-5.build Tool -Maven
+1.Java 8 
+2.Spring Boot 1.5.8 
+3.Spring Data JPA 
+4.MongoDB -NOSql 
+5.build Tool -Maven 
 6.DockerFile
 
 # Project structure :
 
-1.Created as Maven Based project structure.
-2.RestApi (Controllers,Interfaces,Services).
+1.Created as Maven Based project structure. 
+2.RestApi (Controllers,Interfaces,Services). 
 
 # How scalable:
 
