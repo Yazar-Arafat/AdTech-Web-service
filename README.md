@@ -19,21 +19,3 @@
 3.Application is comprised of self-contained but interacting logical blocks, the more you’ll be able to scale each of those blocks independently as your use load demands.
 4.Built-in redundancy
 5.Easy to size and resize properly to your needs
-
-# Need Knowledges :
-
-1.I dont know how to do equal @requestmapping and same @RequestParam along with different values.
-
-Example:
-
-Given:
-/ads/statistics?start={start}&end={end}&group_by=browser&group_by=os
-
-above mapping i have done with below Requestmapping:
-
-/ads/statisticss?start={start}&end={end}&group_by=browser&group_by=os
-
-
-
-
-
